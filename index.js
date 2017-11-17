@@ -26,7 +26,4 @@ class Ceo extends boardMember{
     return(`Welcome aboard!`);
   }
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> 80a6e910e53e01954c7895b028f3a940de5f3a3c
